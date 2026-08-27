@@ -1,2 +1,2 @@
 # betblock
-An Chrome extension for prevent acess to "Bets" websites.
+A Chrome extension to block access to betting websites and common ad domains.
